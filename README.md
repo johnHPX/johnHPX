@@ -5,6 +5,12 @@
   Meu nome é Jonatas, sou programador backend, gosto muito de estudar programação e Hacking. Tenho 18 anos, estou em busca de conhecimento e experiências constantes para que nunca deixe de evoluir tanto como profissional quanto como ser humano. Meu objetivo é me tornar um grande e verdadeiro Engenheiro de Software capaz de criar o que eu quiser e com muita liberdade para ir aonde eu quiser. Ainda estou no começo... mas um dia chego lá!
   
  <br> 
+
+### o que estou estudando
+
+  eu estou estudando atualmente sobre golang, javascript, typescript e reactjs .
+  
+<br>
   
 
   <p align="left">
