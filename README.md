@@ -2,7 +2,7 @@
 
 ### Sobre Me
 
-  Meu nome é Jonatas, sou um programador backend junior. gosto muito de estudar programação. Tenho 18 anos, estou em busca de conhecimento e experiências constantes para que nunca deixe de evoluir tanto como profissional quanto como ser humano. Meu objetivo é me tornar um engenheiro de software especializado em desenvolver sistemas da informação e apto a resolver problemas. Durante o ensino médio eu fiz junto um curso técnico em informática, que por meio do curso, obtive estágio em uma software's house, onde tive o meu primeiro contato com o mercado de trabalho, atuando como programado de sistemas da informação. Posteriomente conseguir um contrato com essa mesma empresa para um expediente de 3 messes, a qual eu trabalhei sob regime CLT. Agora em 2023, eu farei a minha primeira graduação em Sistemas de Informação em um instituto federal. 
+  Meu nome é Jonatas, sou um programador backend junior. gosto muito de estudar programação. Tenho 18 anos, estou em busca de conhecimento e experiências constantes para que nunca deixe de evoluir tanto como profissional quanto como ser humano. Meu objetivo é me tornar um engenheiro de software especializado em desenvolver sistemas da informação e apto a resolver problemas. Durante o ensino médio eu me formei em técnico em informática, que por meio desse curso, obtiv um estágio em uma software's house, onde tive o meu primeiro contato com o mercado de trabalho, atuando como programado de sistemas da informação. Posteriomente conseguir um contrato com essa mesma empresa para um expediente de 3 messes, a qual eu trabalhei sob regime CLT. Agora em 2023, eu farei a minha primeira graduação em Sistemas de Informação em um instituto federal. 
 
 ### O que estou Estudando:
 
