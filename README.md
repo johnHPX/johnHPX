@@ -1,8 +1,8 @@
-# Olá, eu sou Jônatas Freitas!
+# Olá, eu sou Jonatas!
 
 ### Sobre Mim
 
-  Meu nome é Jonatas, sou um programador backend junior. gosto muito de estudar programação. Estou em busca de conhecimento e experiências constantes para que nunca deixe de evoluir tanto como profissional quanto como ser humano. Meu objetivo é me tornar um engenheiro de software especializado em desenvolver sistemas da informação e apto a resolver problemas. Durante o ensino médio eu me formei em Técnico em Informática, que por meio desse curso, obtive um estágio em uma software's house, onde tive o meu primeiro contato com o mercado de trabalho, atuando como programado de sistemas da informação. Posteriomente, conseguir um contrato com essa mesma empresa para mais um expediente de 3 messes, a qual eu trabalhei com carteira assinada. Agora em 2023, eu estou fazendo a minha primeira graduação em Sistemas de Informação em um instituto federal.
+    Meu nome é Jonatas, sou um desenvolvedor de software. Gosto muito de estudar programação. Estou em busca de conhecimento e experiências constantes para que eu nunca deixe de evoluir tanto como profissional tanto como um ser humano. Meu objetivo é me tornar um engenheiro de software especializado em desenvolver sistemas da informação e apto a resolver problemas de qualquer grandeza. Durante o ensino médio eu me formei em Técnico em Informática, que por meio desse curso, obtive um estágio em uma software's house, aonde tive o meu primeiro contato com o mercado de trabalho, atuando como programador de sistemas da informação. Posteriomente, conseguir um contrato com essa mesma empresa para mais um expediente de 3 messes, a qual eu trabalhei com carteira assinada. E em 2023, comecei a minha primeira graduação em Bacharelado em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará Campus Crato na cidade de Crato CE e tenho previsão para concluir o curso no ano de 2026.
 
   
 <br>
