@@ -1,8 +1,4 @@
 # Olá, eu sou Jonatas!
-
-
-  
-<br>
   
 
   <p align="left">
