@@ -1,18 +1,5 @@
 # Olá, eu sou Jonatas!
 
-### Sobre Mim
-
-Meu nome é Jonatas, sou um desenvolvedor de software.
-
-Estou em busca de conhecimento e experiências constantes para que eu nunca deixe de evoluir tanto como profissional tanto como um ser humano.
-
-Meu objetivo é me tornar um engenheiro de software especializado em desenvolver sistemas da informação e apto a resolver problemas de qualquer grandeza.
-
-Durante o ensino médio eu me formei em Técnico em Informática, que por meio desse curso, obtive um estágio em uma software's house, aonde tive o meu primeiro contato com o mercado de trabalho, atuando como programador de sistemas da informação.
-
-Posteriomente, conseguir um contrato com essa mesma empresa para mais um expediente de 3 messes, a qual eu trabalhei com carteira assinada. 
-
-E em 2023, comecei a minha primeira graduação em Bacharelado em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará Campus Crato na cidade de Crato CE e tenho previsão para concluir o curso no ano de 2026.
 
   
 <br>
