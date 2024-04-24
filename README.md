@@ -48,6 +48,9 @@
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Pgadmin](https://img.shields.io/badge/-pgadmin-333333?style=flat&logo=insomnia)
+  ![MySQL Workbench](https://img.shields.io/badge/-pgadmin-333333?style=flat&logo=insomnia)
+  ![brmodeloh](https://img.shields.io/badge/-pgadmin-333333?style=flat&logo=insomnia)
+  ![Vim](https://img.shields.io/badge/-vim-333333?style=flat&logo=insomnia)
 
 **DevOps**
 
