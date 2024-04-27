@@ -42,4 +42,4 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-eclipse-333333?style=flat&logo=eclipse&logoColor=007ACC)
-  ![Android Studios](https://img.shields.io/badge/-androidstudios-333333?style=flat&logo=androidstudios&logoColor=007ACC)
+  ![Android Studios](https://img.shields.io/badge/-Android%20Studios-333333?style=flat&logo=androidstudios&logoColor=007ACC)
