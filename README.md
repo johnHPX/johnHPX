@@ -1,23 +1,3 @@
-
-  <p align="left">
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/jonatasfreitas008%40gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[jonatasfreitas008@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/jonatasfreitas008%40gmail.com)" /></a>
-
-  <a href="https://www.linkedin.com/in/jonatas-nascimento-freitas-hpx/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatas-nascimento-freitas-hpx/" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=5588981368335&text=Ol%C3%A1%2C%20meu%20amigo!" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5588981368335&text=Ol%C3%A1%2C%20meu%20amigo!"/></a>
-
-  <a href="https://www.facebook.com/jonatas.nascimento.125760/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonatas.nascimento.125760/"/></a>
-
-  <a href="https://www.instagram.com/jhonas_ft/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jhonas_ft/"/></a>
-</p>  
-
- <br> 
-
 <a href="https://github.com/johnHPX" >
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=johnHPX&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 </a>
