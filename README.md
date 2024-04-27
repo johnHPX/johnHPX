@@ -28,10 +28,6 @@
 **Utilidades**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Pgadmin](https://img.shields.io/badge/-pgadmin-333333?style=flat&logo=Pgadmin)
-  ![MySQL Workbench](https://img.shields.io/badge/-mysql-workbench-333333?style=flat&logo=mysql-workbench)
-  ![Brmodeloh](https://img.shields.io/badge/-brmodeloh-333333?style=flat&logo=brmodeloh)
-  ![Vim](https://img.shields.io/badge/-vim-333333?style=flat&logo=vim)
 
 **DevOps**
 
