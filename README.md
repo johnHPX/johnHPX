@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Sobre mim
-🎓 Atualmente estudando **Sistemas de Informação**  
+🎓 Atualmente me graduando em **Sistemas de Informação**  
 🔬 Apaixonado por **Programação**  
 🎮 Também gosto de **Games** e sou curioso por **IoT**  
 🌱 Sempre aprendendo algo novo para evoluir como desenvolvedor!    
