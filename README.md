@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o John!</h1>
 <h3 align="center">💻 Estudante de Sistemas de Informação | Técnico em Informática</h3>
 
-![Snake animation](https://github.com/SeuUser/SeuUser/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/johnHPX/johnHPX/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -43,4 +43,4 @@
 
 ✨ *“O aprendizado é infinito, e cada linha de código é um passo rumo ao futuro.”*  
 
-![Visitas](https://komarev.com/ghpvc/?username=SeuUser&color=blue&style=flat-square)
+![Visitas](https://komarev.com/ghpvc/?username=johnHPX&color=blue&style=flat-square)
