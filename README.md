@@ -10,10 +10,10 @@
 ---
 
 ## 🚀 Sobre mim
-🎓 Atualmente estudando **Sistemas de Informação** no IFCE Campus Crato
-🔬 Apaixonado por **programação e tecnológia**  
-🎮 Também gosto de **games** e **IoT**  
-🌱 Sempre aprendendo algo novo para evoluir como desenvolvedor!  
+🎓 Atualmente estudando **Sistemas de Informação**  
+🔬 Apaixonado por **Programação**  
+🎮 Também gosto de **Games** e sou curioso por **IoT**  
+🌱 Sempre aprendendo algo novo para evoluir como desenvolvedor!    
 
 ---
 
