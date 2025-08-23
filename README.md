@@ -1,20 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o John!</h1>
 <h3 align="center">💻 Estudante de Sistemas de Informação | Técnico em Informática</h3>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+![Snake animation](https://github.com/johnHPX/johnHPX/blob/output/snake.svg)
 
 ---
 
