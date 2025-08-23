@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o John!</h1>
+<h1 align="center">👋 Olá, eu sou o Jonatas!</h1>
 <h3 align="center">💻 Estudante de Sistemas de Informação & Técnico em Informática</h3>
 
 <picture>
