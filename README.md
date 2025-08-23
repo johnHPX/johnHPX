@@ -1,7 +1,11 @@
 <h1 align="center">👋 Olá, eu sou o John!</h1>
 <h3 align="center">💻 Estudante de Sistemas de Informação | Técnico em Informática</h3>
 
-![Snake animation](https://github.com/johnHPX/johnHPX/blob/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/johnHPX/johnHPX/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/johnHPX/johnHPX/blob/output/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/johnHPX/johnHPX/blob/output/snake.svg" />
+</picture>
 
 ---
 
