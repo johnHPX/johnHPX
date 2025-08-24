@@ -29,13 +29,6 @@
 
 ---
 
-## 🏆 Ranking
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnHPX&theme=tokyonight&row=1&column=6" alt="Troféus do GitHub"/>
-</p>
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
