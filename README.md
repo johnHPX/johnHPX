@@ -10,10 +10,29 @@
 ---
 
 ## 🚀 Sobre mim
-🎓 Atualmente me graduando em **Sistemas de Informação**  
+🎓 Atualmente estudando **Sistemas de Informação**  
 🔬 Apaixonado por **Programação**  
 🎮 Também gosto de **Games** e sou curioso por **IoT**  
 🌱 Sempre aprendendo algo novo para evoluir como desenvolvedor!    
+
+---
+
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johnHPX&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnHPX&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnHPX&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 Ranking
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=johnHPX&theme=tokyonight&row=1&column=6" alt="Troféus do GitHub"/>
+</p>
 
 ---
 
@@ -41,7 +60,7 @@
 
 ## 💡 Projetos em Destaque
 - 🎯 [**BlogHard Frontend (React)**](https://github.com/johnHPX/Blog-hard-frontend) 
-- 🎯 [**BlogHard Backend (Go)**](https://github.com/johnHPX/Blog-hard-backend) 
+- 🎯 [**BlogHard Backend (Go)**](https://github.com/johnHPX/Blog-hard-frontend) 
 - 🎯 [**Site Buscar Jogadores (React)**](https://github.com/johnHPX/Football-player-project)      
 - 🎯 [**App Buscar Jogadores (React Native)**](https://github.com/johnHPX/Football-player-app-project)
 - 🎯 [**Gerentia (Python)**](https://github.com/RobertsCJ/Project-Gerentia)  
