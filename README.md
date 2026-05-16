@@ -53,7 +53,7 @@
 
 ## 💡 Projetos em Destaque
 - 🎯 [**BlogHard Frontend (React)**](https://github.com/johnHPX/Blog-hard-frontend) 
-- 🎯 [**BlogHard Backend (Go)**](https://github.com/johnHPX/Blog-hard-frontend) 
+- 🎯 [**BlogHard Backend (Go)**](https://github.com/johnHPX/Blog-hard-backend) 
 - 🎯 [**Site Buscar Jogadores (React)**](https://github.com/johnHPX/Football-player-project)      
 - 🎯 [**App Buscar Jogadores (React Native)**](https://github.com/johnHPX/Football-player-app-project)
 - 🎯 [**Gerentia (Python)**](https://github.com/RobertsCJ/Project-Gerentia)  
