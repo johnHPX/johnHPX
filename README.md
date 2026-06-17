@@ -66,18 +66,26 @@ de Computadores</li> <li>DevOps</li> <li>Internet das Coisas (IoT)</li> </ul>
 
 ---
 
-## 💡 Projetos em Destaque
-- 🎯 [**BlogHard Frontend (React)**](https://github.com/johnHPX/Blog-hard-frontend) 
-- 🎯 [**BlogHard Backend (Go)**](https://github.com/johnHPX/Blog-hard-backend) 
-- 🎯 [**Site Buscar Jogadores (React)**](https://github.com/johnHPX/Football-player-project)      
-- 🎯 [**App Buscar Jogadores (React Native)**](https://github.com/johnHPX/Football-player-app-project)
-- 🎯 [**Gerentia (Python)**](https://github.com/RobertsCJ/Project-Gerentia)  
-- 🎯 [**Gerentia API (Flask)**](https://github.com/johnHPX/Gerentia-API)  
-- 🎯 [**Livraria Frontend (Java)**](https://github.com/johnHPX/Livraria-frontend) 
-- 🎯 [**Livraria Backend (Java)**](https://github.com/johnHPX/Livraria-backend)  
-- 🎯 [**Sistema de Role-play-game (Java)**](https://github.com/johnHPX/Sistema-RPG) 
-- 🎯 [**Game: Jogo da memória (Java)**](https://github.com/johnHPX/jogo-da-memoria-java) 
-- 🎯 [**Organizador da pasta Downloads**](https://github.com/johnHPX/Script-download-organizer) 
+<h2> Projetos em Destaque</h2>
+<table> <tr> <td width="50%" valign="top">
+Frontend & Mobile
+ <a href="https://github.com/johnHPX/Blog-hard-frontend">BlogHard Frontend</a>
+ <a href="https://github.com/johnHPX/Football-player-project">Site Buscar Jogadores</a>
+ <a href="https://github.com/johnHPX/Football-player-app-project">App Buscar Jogadores</
+a>
+ <a href="https://github.com/johnHPX/Livraria-frontend">Livraria Frontend</a>
+ <a href="https://github.com/RobertsCJ/Project-Gerentia">Gerentia</a>
+</td>
+<td width="50%" valign="top">
+Backend & Sistemas
+ <a href="https://github.com/johnHPX/Blog-hard-backend">BlogHard Backend</a>
+ <a href="https://github.com/johnHPX/Gerentia-API">Gerentia API</a>
+ <a href="https://github.com/johnHPX/Livraria-backend">Livraria Backend</a>
+ <a href="https://github.com/johnHPX/Sistema-RPG">Sistema RPG</a>
+ <a href="https://github.com/johnHPX/jogo-da-memoria-java">Jogo da Memória</a>
+ <a href="https://github.com/johnHPX/Script-download-organizer">Organizador Downloads</
+a>
+</td> </tr> </table>
 
 
 ---
