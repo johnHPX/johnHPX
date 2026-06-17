@@ -93,6 +93,4 @@ de Computadores</li> <li>DevOps</li> <li>Internet das Coisas (IoT)</li> </ul>
 
 ---
 
-✨ *“O aprendizado é infinito, e cada linha de código é um passo rumo ao futuro.”*  
-
 ![Visitas](https://komarev.com/ghpvc/?username=johnHPX&color=blue&style=flat-square)
