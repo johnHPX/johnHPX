@@ -71,8 +71,7 @@ de Computadores</li> <li>DevOps</li> <li>Internet das Coisas (IoT)</li> </ul>
 Frontend & Mobile
  <a href="https://github.com/johnHPX/Blog-hard-frontend">BlogHard Frontend</a>
  <a href="https://github.com/johnHPX/Football-player-project">Site Buscar Jogadores</a>
- <a href="https://github.com/johnHPX/Football-player-app-project">App Buscar Jogadores</
-a>
+ <a href="https://github.com/johnHPX/Football-player-app-project">App Buscar Jogadores</a>
  <a href="https://github.com/johnHPX/Livraria-frontend">Livraria Frontend</a>
  <a href="https://github.com/RobertsCJ/Project-Gerentia">Gerentia</a>
 </td>
