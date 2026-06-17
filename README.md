@@ -1,4 +1,3 @@
-<h1 align="center">👋 Olá, eu sou o Jonatas!</h1>
 <h3 align="center"> Desenvolvedor em Formação • Linux • Cloud Computing • Backend </
 h3>
 
