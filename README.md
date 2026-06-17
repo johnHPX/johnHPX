@@ -1,5 +1,9 @@
 <h1 align="center">👋 Olá, eu sou o Jonatas!</h1>
-<h3 align="center">💻 Estudante de Sistemas de Informação & Técnico em Informática</h3>
+<h3 align="center"> Desenvolvedor em Formação • Linux • Cloud Computing • Backend </
+h3>
+<p align="center"> Estudante de Sistemas de Informação e Técnico em Informática apaixonado por
+desenvolvimento de software, infraestrutura Linux, redes de computadores e tecnologias open source.
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/johnHPX/johnHPX/blob/output/snake-dark.svg" />
@@ -9,11 +13,19 @@
 
 ---
 
-## 🚀 Sobre mim
-🎓 Atualmente estudando **Sistemas de Informação**  
-🔬 Apaixonado por **Programação**  
-🎮 Também gosto de **Games** e sou curioso por **IoT**  
-🌱 Sempre aprendendo algo novo para evoluir como desenvolvedor!    
+## 🚀 Sobre Mim
+
+🎓 Bacharelando em Sistemas de Informação
+
+💻 Técnico em Informática
+
+🐧 Entusiasta de Linux, infraestrutura e administração de servidores
+
+☁️ Explorando Cloud Computing, redes e arquitetura de sistemas
+
+🔬 Apaixonado por desenvolvimento de software e aprendizado contínuo
+
+🌱 Sempre estudando novas tecnologias para evoluir como desenvolvedor 
 
 ---
 
@@ -26,6 +38,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnHPX&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
+---
+
+## 🎯 Áreas de Interesse
+<ul> <li>Desenvolvimento Backend</li> <li>Infraestrutura Linux</li> <li>Cloud Computing</li> <li>Redes
+de Computadores</li> <li>DevOps</li> <li>Internet das Coisas (IoT)</li> </ul>
 
 ---
 
