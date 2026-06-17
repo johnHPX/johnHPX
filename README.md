@@ -1,9 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Jonatas!</h1>
 <h3 align="center"> Desenvolvedor em Formação • Linux • Cloud Computing • Backend </
 h3>
-<p align="center"> Estudante de Sistemas de Informação e Técnico em Informática apaixonado por
-desenvolvimento de software, infraestrutura Linux, redes de computadores e tecnologias open source.
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/johnHPX/johnHPX/blob/output/snake-dark.svg" />
