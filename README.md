@@ -86,7 +86,7 @@ Raspberry Pi 3B rodando em produção 24/7 com os seguintes serviços em Docker:
 
 ## 💡 Projetos em Destaque
 
-- 🎯 [**BlogHard Backend (Go)**](https://github.com/johnHPX/Blog-hard-backend) — API REST com autenticação JWT, CRUD de posts e gestão de usuários. Stack: Go, PostgreSQL, chi router.
+- 🎯 [**BlogHard Backend (Go)**](https://github.com/johnHPX/Blog-hard-backend) — API REST com autenticação JWT, CRUD de posts e gestão de usuários. Stack: Go e PostgreSQL.
 - 🎯 [**BlogHard Frontend (React)**](https://github.com/johnHPX/Blog-hard-frontend) — Interface do blog com painel de administração. Consome a API acima.
 - 🎯 [**Site Buscar Jogadores (React)**](https://github.com/johnHPX/Football-player-project) — Aplicação web de busca e listagem de jogadores de futebol.
 - 🎯 [**App Buscar Jogadores (React Native)**](https://github.com/johnHPX/Football-player-app-project) — Versão mobile do projeto acima para Android.
