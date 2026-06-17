@@ -66,7 +66,18 @@ de Computadores</li> <li>DevOps</li> <li>Internet das Coisas (IoT)</li> </ul>
 
 ---
 
-## 💡 Projetos em Destaque - 🎯 [**BlogHard Frontend (React)**](https://github.com/johnHPX/Blog-hard-frontend) - 🎯 [**BlogHard Backend (Go)**](https://github.com/johnHPX/Blog-hard-backend) - 🎯 [**Site Buscar Jogadores (React)**](https://github.com/johnHPX/Football-player-project) - 🎯 [**App Buscar Jogadores (React Native)**](https://github.com/johnHPX/Football-player-app-project) - 🎯 [**Gerentia (Python)**](https://github.com/RobertsCJ/Project-Gerentia) - 🎯 [**Gerentia API (Flask)**](https://github.com/johnHPX/Gerentia-API) - 🎯 [**Livraria Frontend (Java)**](https://github.com/johnHPX/Livraria-frontend) - 🎯 [**Livraria Backend (Java)**](https://github.com/johnHPX/Livraria-backend) - 🎯 [**Sistema de Role-play-game (Java)**](https://github.com/johnHPX/Sistema-RPG) - 🎯 [**Game: Jogo da memória (Java)**](https://github.com/johnHPX/jogo-da-memoria-java) - 🎯 [**Organizador da pasta Downloads**](https://github.com/johnHPX/Script-download-organizer)
+## 💡 Projetos em Destaque 
+- 🎯 [**BlogHard Frontend (React)**](https://github.com/johnHPX/Blog-hard-frontend)
+- 🎯 [**BlogHard Backend (Go)**](https://github.com/johnHPX/Blog-hard-backend)
+- 🎯 [**Site Buscar Jogadores (React)**](https://github.com/johnHPX/Football-player-project)
+- 🎯 [**App Buscar Jogadores (React Native)**](https://github.com/johnHPX/Football-player-app-project)
+- 🎯 [**Gerentia (Python)**](https://github.com/RobertsCJ/Project-Gerentia)
+- 🎯 [**Gerentia API (Flask)**](https://github.com/johnHPX/Gerentia-API)
+- 🎯 [**Livraria Frontend (Java)**](https://github.com/johnHPX/Livraria-frontend)
+- 🎯 [**Livraria Backend (Java)**](https://github.com/johnHPX/Livraria-backend)
+- 🎯 [**Sistema de Role-play-game (Java)**](https://github.com/johnHPX/Sistema-RPG)
+- 🎯 [**Game: Jogo da memória (Java)**](https://github.com/johnHPX/jogo-da-memoria-java)
+- 🎯 [**Organizador da pasta Downloads**](https://github.com/johnHPX/Script-download-organizer)
 
 
 ---
