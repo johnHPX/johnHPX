@@ -19,7 +19,7 @@ h3>
 
 ☁️ Explorando Cloud Computing, redes e arquitetura de sistemas
 
-🔬 Apaixonado por desenvolvimento de software e aprendizado contínuo
+🔬 Hiperfoco por desenvolvimento de software e aprendizado contínuo
 
 🌱 Sempre estudando novas tecnologias para evoluir como desenvolvedor 
 
