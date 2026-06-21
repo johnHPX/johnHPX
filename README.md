@@ -5,7 +5,7 @@
   Atualmente buscando oportunidades de estágio ou projetos colaborativos em desenvolvimento backend e infraestrutura.
 </p>
 
-<p aling="center">
+<p align="center">
   Email para contato: jonatas.freitas@johnprojects.dev
 </p>
 
