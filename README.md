@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Email para contato: jonatas.freitas@johnprojects.dev
+  <strong>Email para contato: jonatas.freitas@johnprojects.dev</strong>
 </p>
 
 <picture>
