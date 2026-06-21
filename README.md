@@ -1,8 +1,12 @@
-<h3 align="center">Desenvolvedor em Formação • Linux • Cloud Computing • Backend</h3>
+<h3 align="center">Desenvolvedor em Formação • Linux • Cloud Computing • Backend • Frontend</h3>
 
 <p align="center">
   Programo desde os 15 anos. Mantenho infraestrutura real em casa e resolvo problemas reais com o que aprendo.<br/>
   Atualmente buscando oportunidades de estágio ou projetos colaborativos em desenvolvimento backend e infraestrutura.
+</p>
+
+<p aling="center">
+  Email para contato: jonatas.freitas@johnprojects.dev
 </p>
 
 <picture>
@@ -112,9 +116,9 @@ Raspberry Pi 3B rodando em produção 24/7 com os seguintes serviços em Docker:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonatas-nascimento-freitas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:contato.jonatasfreitas@johnprojects.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jonatas.freitas@johnprojects.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://blog.johnprojects.dev"><img src="https://img.shields.io/badge/BlogHard-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-  <a href="https://instagram.com/john_hpx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/jonatas.develop"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://discord.com/users/878779563927273472"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
