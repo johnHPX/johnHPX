@@ -66,6 +66,7 @@ Bacharelando em Sistemas de Informação e técnico em Informática. Comecei a p
 
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver%20CE-372923?style=for-the-badge&logo=databricks&logoColor=white"/>
