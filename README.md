@@ -108,7 +108,7 @@ Raspberry Pi 3B rodando em produção 24/7 com os seguintes serviços em Docker:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnHPX&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnHPX&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnHPX&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
